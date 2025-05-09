@@ -18,3 +18,7 @@ a {
     gap: 2rem;
     font-size: 18px;
 }
+#home:hover, #about-us:hover, #contacts:hover {
+    color: cyan;
+    transition: linear 0.2s;
+}
